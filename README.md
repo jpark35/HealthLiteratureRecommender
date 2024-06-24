@@ -8,11 +8,11 @@ HealtLiteratureRecommender's goal is to improve users' health literacy by provid
 
 ## Features
 
-User Age: Users can enter their age to get relevant material regarding their age.
-User Sex (Male or Female): Users can enter their sex to get relevant material regarding their sex.
-User Pregancy Status (Yes or No): Users can enter their pregnancy condition to get relevant material regarding pregancy. Default field value is No.
-User Tobacco Usage (Yes or No): Users can enter their tobacco usage to get relevant material regarding smoking. Default field value is No.
-User Sexual Activity (Yes or No): Users can enter their sexual activity to get relevant material regarding sex. Defaul field value is No.
+* User Age: Users can enter their age to get relevant material regarding their age.
+* User Sex (Male or Female): Users can enter their sex to get relevant material regarding their sex.
+* User Pregancy Status (Yes or No): Users can enter their pregnancy condition to get relevant material regarding pregancy. Default field value is No.
+* User Tobacco Usage (Yes or No): Users can enter their tobacco usage to get relevant material regarding smoking. Default field value is No.
+* User Sexual Activity (Yes or No): Users can enter their sexual activity to get relevant material regarding sex. Defaul field value is No.
 
 ## Installation
 
