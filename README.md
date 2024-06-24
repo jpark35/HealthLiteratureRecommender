@@ -1,6 +1,6 @@
 # HealthLiteratureRecommender
 
-This is a web application that leverages Health.gov API to curate user targeted recommendations to improve health literacy. Users have the ability to input their age, sex, and other health conditions such as pregnancy, tobacco usage, and sexual activity to get material regarding advice and other relevant content. Here is more information regarding Health.gov API: https://health.gov/our-work/national-health-initiatives/health-literacy/consumer-health-content/free-web-content/apis-developers/api-documentation
+This is a web application that leverages Health.gov API to curate user targeted recommendations to improve health literacy. Users have the ability to input their age, sex, and other health conditions such as pregnancy, tobacco usage, and sexual activity to get material regarding advice and other relevant content. Here is more information regarding Health.gov API: 'https://health.gov/our-work/national-health-initiatives/health-literacy/consumer-health-content/free-web-content/apis-developers/api-documentation'
 
 ## Introduction
 
