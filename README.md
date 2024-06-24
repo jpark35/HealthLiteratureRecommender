@@ -16,14 +16,24 @@ HealtLiteratureRecommender's goal is to improve users' health literacy by provid
 
 ## Installation
 
-This project uses React, Axios, Express, SQLite3, CORS, and Body-Parser:
-* React: npx create-react-app my-app
-* Axios: npm install axios
-* Express, SQLite3, CORS, Body-Parser: npm install express sqlite3 cors body-parser
+Prerequisite: Ensure that Node.js and npm (Node Package Manager) is installed.
+
+This project uses React, Axios, Express, SQLite3, CORS, and Body-Parser.
+
+* React: ```npx create-react-app my-app```
+
+Navigate to the backend directory and run to install the backend dependencies:
+* Express, SQLite3, CORS, Body-Parser: ```npm install express sqlite3 cors body-parser```
 
 To run the backend server:
-* node server.js
+* ```node server.js```
 
+Navigate to the frontend directory and run to install the frontend dependencies:
+* Axios: ```npm install axios```
+  
 To run the frontend server:
 Navigate to React project directory and run:
-* npm start
+* ```npm start```
+
+To view the project, open brower of choice and navigate to 'http://localhost:3000' to view the frontend interaface.
+Register with a username and password of choice and log-in to input conditions to receive health literature recommendations.
