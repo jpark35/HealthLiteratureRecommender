@@ -4,7 +4,7 @@ This is a web application that leverages Health.gov API to curate user targeted 
 
 ## Introduction
 
-HealtLiteratureRecommender's goal is to improve users' health literacy by providing quick access to relevant content. By using SQLite and JSON Web Tokens, users will be able to register and login to personal accounts to query health literature.
+HealthLiteratureRecommender's goal is to improve users' health literacy by providing quick access to relevant content. By using SQLite and JSON Web Tokens, users will be able to register and login to personal accounts to query health literature.
 
 ## Features
 
