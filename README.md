@@ -35,5 +35,5 @@ To run the frontend server:
 Navigate to React project directory and run:
 * ```npm start```
 
-To view the project, open brower of choice and navigate to 'http://localhost:3000' to view the frontend interaface.
+To view the project, open brower of choice and navigate to http://localhost:3000 to view the frontend interaface.
 <br> <br> Register with a username and password of choice and log-in to input conditions to receive health literature recommendations.
